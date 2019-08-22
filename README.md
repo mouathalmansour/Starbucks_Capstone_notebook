@@ -66,14 +66,6 @@ When we analyze the users' willing, we use the amount as the target label and th
      1. In totally, there is a positive effect at each strategy
      2. The **informational** make a high improve to attract the customers
 
-2. **Relationship Between Demographic Information And Promotion Type**
-   Take a deep into the users demographic information with the different promotion strategy.   
-
-   - Firstly, the gender other doesn't have apparent significance
-   - The new users who don't have detailed demographic value can attract by the informational promotion
-   - The young low-income male users and the old low-income male can attract by the informational promotion. At the same time, the rest promotion types do have a significant impact. In totally, the young members are much more active than the other age users, at the low-income level
-   - Above the medium-high income level, the discount promotion type makes a much more improve the buying amount
-     In a word, the informational promotion type affects the new member users; the discount promotion type affects the high-income member users; the pop users are the young medium-income, which exclude the non-demographic information member.
 
 3. **Model Result**
 
