@@ -6,8 +6,7 @@
 2. [Project Overview](#project)
 3. [File Descripton](#file)
 4. [Results](#results)
-5. [Licensing](#licensing)
-6. [Acknowledge](#ackowledge)
+5. [Acknowledge](#ackowledge)
 
 ## Installation<a id="installation"></a>
 
@@ -78,17 +77,8 @@ When we analyze the users' willing, we use the amount as the target label and th
 
 3. **Model Result**
 
-   We build three models: the linear regression is a basic model, then the model is optimized by the decision tree regression and the random forest regression. At the same time, we use the GridSearchCV to tune the model. The last two model can analyze the important feature.
+   We build three models: the linear regression is a basic model which we got test data is: 1.1829, R^2 score of the test data is: 0.4732 and train data is: 0.4684.
 
-   * The last two model get a better score than the basic model. The mean squared value is closed to **1**, and the R square value is **0.5925** about the test data
-
-   * According to the feature importance, the feature high-income level, the feature became-member date, and the female gender are important demographic information. At the promotion side, the promotion duration is more important than the promotion type; the BOGO type and the discount type are not important.
-
-   In totally, the result almost agree with the former analysis. **Besides, the project article is  [Give Best Promotion To Appropriate Customer](https://medium.com/@RayZen/give-best-promotion-to-appropriate-customer-8abb170ca76e) **
-
-## Licensing<a id="licensing"></a>
-
-If you  would like to do further more, it is available below under MIT license. 
 
 ## Acknowledge <a id="acknowlege"></a>
 
